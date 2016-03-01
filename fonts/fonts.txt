@@ -1,1 +1,8 @@
-Два шрифта MuseoSans и Avenir
+Два шрифта используются - Museo Sans 500 и Avenir.
+
+Шрифт Museo Sans 500 бесплатен и может внедряться на  веб-страницы.
+Ссылка на ресурс - http://www.fontspring.com/fonts/exljbris/museo-sans.
+
+Шрифт Avenir не имеет разрешения на внедрение на веб-страницах. 
+Здесь Avenir применен только для теста.
+Ссылка на ресурс - https://www.myfonts.com/fonts/linotype/avenir/.
