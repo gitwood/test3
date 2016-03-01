@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'MuseoSans';
-  src: url('fonts/museosans_500-webfont.eot');
-  src: url('fonts/museosans_500-webfont.eot?#iefix') format('embedded-opentype'),
-       url('fonts/museosans_500-webfont.woff') format('woff'),
-       url('fonts/museosans_500-webfont.ttf') format('truetype'),
-       url('fonts/museosans_500-webfont.svg#museo_sans500') format('svg');
+  src: url('/test3/fonts/museosans_500-webfont.eot');
+  src: url('/test3/fonts/museosans_500-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/test3/fonts/museosans_500-webfont.woff') format('woff'),
+       url('/test3/fonts/museosans_500-webfont.ttf') format('truetype'),
+       url('/test3/fonts/museosans_500-webfont.svg#museo_sans500') format('svg');
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: 'Avenir';
-  src: url('fonts/avenir-roman.eot');
-  src: url('fonts/avenir-roman.eot?#iefix') format('embedded-opentype'),
-       url('fonts/avenir-roman.woff') format('woff'),
-       url('fonts/avenir-roman.ttf') format('truetype'),
-       url('fonts/avenir-roman.svg#avenirltstd-roman') format('svg');
+  src: url('/test3/fonts/avenir-roman.eot');
+  src: url('/test3/fonts/avenir-roman.eot?#iefix') format('embedded-opentype'),
+       url('/test3/fonts/avenir-roman.woff') format('woff'),
+       url('/test3/fonts/avenir-roman.ttf') format('truetype'),
+       url('/test3/fonts/avenir-roman.svg#avenirltstd-roman') format('svg');
   font-weight: 500;
   font-style: normal;
 }
