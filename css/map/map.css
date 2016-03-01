@@ -1,0 +1,24 @@
+.b-map {
+position:relative; 
+}
+.b-map__popup {
+  position: absolute;
+  left: 375.88px;
+  top: 190.88px;  
+}
+.b-map__pin1 {
+  position: absolute;
+  left: 387px;
+  top: 285px;
+  
+}
+.b-map__pin2 {
+  position: absolute;
+  left: 723px;
+  top: 159px;  
+}
+.b-map__pin3 {
+  position: absolute;
+  left: 516px;
+  top: 445px;  
+}
