@@ -1,0 +1,36 @@
+.b-intro {
+  position:relative; 
+}
+.b-intro__title {
+  position: absolute;
+  left: 610.495px;
+  top: 406.5px;
+  font-size: 44px;
+  font-family: "Avenir";
+  color: rgb(247, 253, 254);
+  line-height: 0.636;
+  text-align: center;
+}
+
+.b-intro__leftstar {
+    position:relative;
+	right:40px;
+	bottom:8px;
+    font-size:x-small;	
+}
+.b-intro__rightstar {
+    position:relative;
+	left:40px;
+	bottom:8px;
+    font-size:x-small;
+}
+.b-intro__text {
+  position: absolute;
+  left: 310.255px;
+  top:  465.147px;  
+  font-size: 20px;
+  font-family: "Avenir";
+  color: rgb(247, 253, 254);
+  line-height: 1.4;
+  text-align: center;
+}
