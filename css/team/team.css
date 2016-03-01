@@ -1,0 +1,61 @@
+.b-team {
+ position:relative; 
+ background-color:   rgb(14, 191, 221);
+ height: 600px;
+}
+.b-team__title {
+  position: absolute;
+  left: 671.976px;
+  top: 60.5px;
+  font-size: 44px;
+  font-family: "Avenir";
+  color: rgb(255, 255, 255);
+  line-height: 0.636;
+  text-align: center;
+}
+
+
+.b-team__member1 {
+  position: absolute;
+  left: 420px;
+  top:  197px;  
+}
+.b-team__member2 {
+  position: absolute;
+  left: 640px;
+  top:  197px;  
+}
+.b-team__member3 {
+  position: absolute;
+  left: 860px;
+  top:  197px;  
+}
+.b-team__figcaption {
+  font-size: 18px;
+  font-family: "Avenir";
+  color: rgb(247, 253, 254);
+  line-height: 1.2;
+  text-align: center;
+  box-sizing: border-box;
+  padding-top: 8px;
+}
+
+.b-team__button {
+  position: absolute;
+  left: 630px;
+  top: 496px;
+  border-width: 1px;
+  border-color: rgb(249, 251, 251);
+  border-style: solid;
+  border-radius: 19px;  
+  width: 178px;
+  height: 38px;
+  font-size: 13px;
+  font-family: "MuseoSans";
+  color: rgb(247, 253, 254);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  box-sizing: border-box;
+  padding-top: 10px;  
+}
