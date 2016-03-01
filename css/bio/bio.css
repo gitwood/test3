@@ -1,0 +1,26 @@
+.b-bio {
+  position:relative; 
+  background-color: rgb(255, 255, 255);
+  height: 250px;
+}
+.b-bio__title {
+  position: absolute;
+  left: 662.094px;
+  top: 69.5px;
+  font-size: 44px;
+  font-family: "Avenir";
+  color: rgb(14, 191, 221);
+  line-height: 0.636;
+  text-align: center; 
+}
+
+.b-bio__text {
+  position: absolute;
+  left: 310.255px;
+  top: 119.647px;  
+  font-size: 20px;
+  font-family: "Avenir";
+  color: rgb(69, 73, 77);
+  line-height: 1.4;
+  text-align: center;
+}
