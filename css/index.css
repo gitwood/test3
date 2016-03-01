@@ -1,7 +1,7 @@
-@import url("/fonts.css");
-@import url("/nav.css");
-@import url("/intro.css");
-@import url("/bio.css");
-@import url("/team.css");
-@import url("/map.css");
-@import url("/footer.css");
+@import url("fonts/fonts.css");
+@import url("nav/nav.css");
+@import url("intro/intro.css");
+@import url("bio/bio.css");
+@import url("team/team.css");
+@import url("map/map.css");
+@import url("footer/footer.css");
