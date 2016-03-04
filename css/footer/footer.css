@@ -47,7 +47,7 @@ height: 120px;
 	top:8px;
     color:rgb(215, 222, 228);
 }
-.b-footer__a__fb {
+.b-footer__a-fb {
     position:relative;
 	left:13px;
 	top:8px;
@@ -64,15 +64,15 @@ height: 120px;
   text-align: left;  
 }
 
-.b-footer__aboutpolicy__ul {
+.b-footer__ul-aboutpolicy {
 list-style-type:none;
 }
-.b-footer__aboutpolicy__li {
+.b-footer__li-aboutpolicy {
 display:inline;
 margin:10px;
 }
 
-.b-footer__aboutpolicy__a {
+.b-footer__a-aboutpolicy {
 text-decoration: none;
 color: rgb(115, 118, 122);
 }
