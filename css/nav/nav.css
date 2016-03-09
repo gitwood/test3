@@ -5,8 +5,8 @@
 } 
 .b-nav__logo {
   position: absolute;
-  left: 254.229px;
-  top: 20.932px;
+  left: 248.229px;
+  top: 21.932px;
   font-size: 30px;
   font-family: "MuseoSans";
   color: rgb(130, 134, 143);
@@ -15,8 +15,8 @@
 } 
 .b-nav__menu {
   position: absolute;
-  left: 835.764px;
-  top: 32.568px;
+  left: 828.764px;
+  top: 33.568px;
   font-size: 14px;
   font-family: "MuseoSans";
   text-transform: uppercase; 
@@ -27,7 +27,7 @@ list-style-type:none;
 }
 .b-nav__li {
 display:inline;
-margin:10px;
+margin:16px;
 }
 .b-nav__a {
 text-decoration: none;
@@ -35,7 +35,7 @@ color: rgb(130, 134, 143);
 }
 .b-nav__button {
   position: absolute;
-  left: 1062.132px;
+  left: 1065.132px;
   top: 20.3px;
   border-radius: 19px;
   background-color: #0ebfdd;
@@ -48,5 +48,5 @@ color: rgb(130, 134, 143);
   line-height: 1.2;
   text-align: center;
   box-sizing: border-box;
-  padding-top: 10px;  
+  padding-top: 12px;  
 }
