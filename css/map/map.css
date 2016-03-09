@@ -1,5 +1,6 @@
 .b-map {
 position:relative; 
+height: 598px;
 }
 .b-map__popup {
   position: absolute;

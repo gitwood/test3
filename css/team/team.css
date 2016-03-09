@@ -5,8 +5,8 @@
 }
 .b-team__title {
   position: absolute;
-  left: 671.976px;
-  top: 60.5px;
+  left: 666.976px;
+  top: 58.5px;
   font-size: 44px;
   font-family: "Avenir";
   color: rgb(255, 255, 255);
@@ -37,7 +37,7 @@
   line-height: 1.2;
   text-align: center;
   box-sizing: border-box;
-  padding-top: 8px;
+  padding-top: 6px;
 }
 
 .b-team__button {
@@ -48,7 +48,7 @@
   border-color: rgb(249, 251, 251);
   border-style: solid;
   border-radius: 19px;  
-  width: 178px;
+  width: 179px;
   height: 38px;
   font-size: 13px;
   font-family: "MuseoSans";
