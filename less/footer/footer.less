@@ -1,0 +1,103 @@
+.b-footer {
+position:relative; 
+background-color: @bgfooter;
+height: 120px;
+ // левое основное меню 
+&__menu {
+  position: absolute;
+  left: 225.022px;
+  top: 22.176px;
+  font-size: 12px;
+  font-family: "MuseoSans";  
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: right;  
+}
+&__ul {
+  list-style-type:none;
+}
+&__li {
+  display:inline;
+  margin:16px;
+}
+&__a {
+  position:relative;
+	left:10px;
+	top:11px;
+  color:@fontfooter;
+  text-decoration: none;
+  }
+//правое меню с кнопками социальных сетей
+ &__social1 {
+  position: absolute;
+  left: 1050px;
+  top: 19px;
+  width: 38px;
+  height: 38px;
+  z-index: 6;
+  border-width: 1px;
+  border-color: @fontfooter;
+  border-style: solid;
+  border-radius: 50%;
+   }
+ &__social2  {
+  position: absolute;
+  left: 1100px;
+  top: 19px;
+  width: 38px;
+  height: 38px;
+  z-index: 5;
+  border-width: 1px;
+  border-color: @fontfooter;
+  border-style: solid;
+  border-radius: 50%;
+  }
+ &__social3  {
+  position: absolute;
+  left: 1150px;
+  top: 19px;
+  width: 38px;
+  height: 38px;
+  border-width: 1px;
+  border-color: @fontfooter;
+  border-style: solid;
+  border-radius: 50%;   
+}
+  &__a-fb {
+  position:relative;
+	left:13px;
+	top:11px;
+  color:@fontfooter;
+  }
+  // линия под левым и правым меню
+&__line {
+  position: absolute;
+  left: 250px;
+  top: 78px;
+  width: 940px;
+  height: 1px;
+  background-color: @linefooter;
+  opacity: 0.302;  
+}
+// нижнее дополнительное меню под линией
+&__aboutpolicy {
+  position: absolute;
+  left: 783.611px;
+  top: 93.262px;
+  font-size: 12px;
+  font-family: "MuseoSans";
+  line-height: 1.2;
+  text-align: left;  
+}
+&__ul-aboutpolicy {
+  list-style-type:none;
+   }
+&__li-aboutpolicy {
+  display:inline;
+  margin:9px;
+  }
+&__a-aboutpolicy {
+  text-decoration: none;
+  color: @fontaboutpolicyfooter;
+ }
+}
