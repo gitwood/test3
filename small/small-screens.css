@@ -64,9 +64,9 @@ display:none;
 .b-map {
 position:relative; 
 height: 287.6px;
+background-image: url("map-small-min.PNG")
 }
 .b-map__map ,.b-map__popup,.b-map__pin1,.b-map__pin2,.b-map__pin3{display:none}
-.b-map {background-image: url("map-small-min.PNG")}
 .b-footer__menu {display:none}
 .b-footer__line {
   left: 0px;
