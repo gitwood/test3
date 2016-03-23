@@ -13,25 +13,16 @@ display:none;
 .b-nav__button {
   left: 200.132px;  
 } 
-
-
 .b-intro img {width:100%}
-
-
 .b-intro__title {
   left:90px;
   top: 20.5px;
   font-size: 34px;
-  text-align: center;
-}
+  }
 .b-intro__text {
   left: 10.255px;
   top:  80.147px;  
   font-size: 10px;
-  font-family: "Avenir";
-  color: rgb(247, 253, 254);
-  line-height: 1.4;
-  text-align: center;
 }
 .b-bio {
   height: 148px;
@@ -41,13 +32,11 @@ display:none;
   top: 20.5px;
   font-size: 34px;  
 }
-
 .b-bio__text {
   left: 10.255px;
   top: 80.647px;  
   font-size: 10px;  
 }
-
 .b-team {
  height: 900px;
 }
@@ -56,8 +45,6 @@ display:none;
   top: 20.5px;
   font-size: 34px;  
 }
-
-
 .b-team__member1 {
   left: 110px;
   top:  97px;  
@@ -70,7 +57,6 @@ display:none;
   left: 110px;
   top:  537px;  
 }
-
 .b-team__button {
   left: 90px;
   top: 800px; 
